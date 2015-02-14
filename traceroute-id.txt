@@ -1,0 +1,20 @@
+Ini adalah daftar route-server/looking-glass/traceroute di Indonesia.
+Ada dua cara untuk berkontribusi:
+1. Kirim email untuk tambahan atau pengurangan daftar
+2. Fork - edit - request-pull
+
+Daftar ini dipelihara oleh Budiwijaya <budiw_1@yahoo.com>
+-------------
+http://lg.iix.net.id/cgi-bin/lg.cgi
+http://lg.mohonmaaf.com
+https://lg.telin.co.id/netman/index2.php
+http://lg.datautama.net.id/cgi-bin/bgplg/
+http://lg.intiland.net/
+http://routerproxy.noc.itb.ac.id/
+http://lg.dikti.go.id/index.php
+http://lg.unila.ac.id/
+http://lg.dionipe.net/
+http://lg.tachyon.net.id/cgi-bin/bgplg
+http://noc2006.cbn.net.id/lg.php
+
+
