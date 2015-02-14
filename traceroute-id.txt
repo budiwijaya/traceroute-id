@@ -16,5 +16,5 @@ http://lg.unila.ac.id/
 http://lg.dionipe.net/
 http://lg.tachyon.net.id/cgi-bin/bgplg
 http://noc2006.cbn.net.id/lg.php
-
+http://www.us.ntt.net/support/looking-glass/  (dimasukkan karena bisa traceroute dari node indonesia)
 
