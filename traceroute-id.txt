@@ -18,3 +18,4 @@ http://lg.tachyon.net.id/cgi-bin/bgplg
 http://noc2006.cbn.net.id/lg.php
 http://www.us.ntt.net/support/looking-glass/  (dimasukkan karena bisa traceroute dari node indonesia)
 http://lg.radsby.net/
+http://lg.apiknet.co.id/
