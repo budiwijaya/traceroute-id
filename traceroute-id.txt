@@ -20,3 +20,4 @@ http://www.us.ntt.net/support/looking-glass/  (dimasukkan karena bisa traceroute
 http://lg.radsby.net/
 http://lg.apiknet.co.id/
 http://lg.unpad.ac.id/
+http://www.qwords.info/
