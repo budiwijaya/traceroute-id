@@ -25,6 +25,7 @@ http://lg.laxo.net.id
 http://lg.skyline.net.id/ 
 http://lg.ldp.net.id/
 http://lg.brta.in/
+https://lg.axarva.id/
 
 http://speedtest.cbn.net.id/
 http://speedtest.indosatm2.com/
