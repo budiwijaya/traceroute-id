@@ -30,6 +30,8 @@ http://lg.apik.co.id
 http://lg.arsen.co.id
 https://portal.bix.id/lg
 https://www.qwords.info/
+https://lookingglass.ui.ac.id/
+https://ris.kadabra.id
 
 http://speedtest.cbn.net.id/
 http://speedtest.indosatm2.com/
