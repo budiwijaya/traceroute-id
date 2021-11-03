@@ -9,27 +9,16 @@ http://lg.iix.net.id/cgi-bin/lg.cgi
 http://lg.mohonmaaf.com
 https://lg.telin.co.id/netman/index2.php
 http://lg.datautama.net.id/cgi-bin/bgplg/
-http://lg.intiland.net/
 http://routerproxy.noc.itb.ac.id/
-http://lg.dikti.go.id/index.php
-http://lg.unila.ac.id/
-http://lg.dionipe.net/
 http://lg.tachyon.net.id/cgi-bin/bgplg
-http://noc2006.cbn.net.id/lg.php
 http://www.us.ntt.net/support/looking-glass/  (dimasukkan karena bisa traceroute dari node indonesia)
-http://lg.radsby.net/
-http://lg.apiknet.co.id/
 http://lg.unpad.ac.id/
 http://www.qwords.info/
-http://lg.laxo.net.id
 http://lg.skyline.net.id/ 
 http://lg.ldp.net.id/
-http://lg.brta.in/
-https://lg.axarva.id/
 http://lg.apik.co.id
 http://lg.arsen.co.id
 https://portal.bix.id/lg
-https://www.qwords.info/
 https://lookingglass.ui.ac.id/
 https://ris.kadabra.id
 
