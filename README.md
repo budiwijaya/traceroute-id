@@ -4,4 +4,4 @@ Ada dua cara untuk berkontribusi:<br/>
 1. Kirim email untuk tambahan atau pengurangan daftar.<br/>
 2. Fork - edit - request-pull<br/>
 
-Daftar ini dipelihara oleh Budiwijaya <budiw_1@yahoo.com>
+Daftar ini dipelihara oleh Budi Wijaya budiw_1 at yahoo.com
